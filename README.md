@@ -13,7 +13,7 @@ OilLang is an educational programming language that demonstrates the core compon
 
 ## Features
 
-- **Variables**: x = 5;
+- **Variables**: ``x = 5``;
 - **Arithmetic Operations**: ``+``, ``-``, ``*``, ``/``
 - **Comparison Operations**: ``==``, ``!=``, ``<``, ``<=``, ``>``, ``>=``
 - **Logical Operations**: ``&&``, ``||``, ``!``
