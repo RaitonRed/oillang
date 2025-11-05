@@ -1,4 +1,3 @@
-#pylint:disable=W0621
 import re
 import sys
 from dataclasses import dataclass
